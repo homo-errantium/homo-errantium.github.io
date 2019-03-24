@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Lato-Reg';
+  src: url('Lato-Reg.eot');
+  src: url('Lato-Reg.eot?#iefix') format('embedded-opentype'),
+       url('Lato-Reg.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lato-Regular';
+  src: url('Lato-Regular.svg#Lato-Regular') format('svg'),
+       url('Lato-Regular.ttf') format('truetype'),
+       url('Lato-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
